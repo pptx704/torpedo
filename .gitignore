@@ -1,0 +1,8 @@
+sandbox/
+venv/
+.vscode/
+__pycache__/
+*/__pycache__/*
+workspace.code-workspace
+GUI/
+main.pyw
